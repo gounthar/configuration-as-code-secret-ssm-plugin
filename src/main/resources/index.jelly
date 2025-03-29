@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+   This plugin resolves secrets from Amazon SSM for CASC plugin
+</div>
